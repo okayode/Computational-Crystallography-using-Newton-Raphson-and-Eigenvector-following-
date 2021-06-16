@@ -5,7 +5,6 @@ fprintf('\n####################################################################\
 fprintf(' Findpeaks: Computational Crystallography ')
 fprintf('\n####################################################################\n')
 fprintf(' Kayode Olumoyin ')
-fprintf(' COMS 7100 ')
 fprintf(' Project 2 ')
 fprintf('\n####################################################################\n')
 
